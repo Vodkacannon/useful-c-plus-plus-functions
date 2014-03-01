@@ -1,0 +1,13 @@
+#ifndef USEFULL_FUNCTIONS
+
+#def USEFULL_FUNCTIONS
+
+#pragma once
+
+namespace useful{
+
+
+
+}
+
+#endif
