@@ -1,3 +1,5 @@
+#include <string>
+
 namespace useful_cpp_functions
 {
   void print(const std::string& message);
