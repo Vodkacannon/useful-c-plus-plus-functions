@@ -1,2 +1,2 @@
-Useful-c-plus-plus-functions
+Useful-c-plus-plus-functions.
 ============================
