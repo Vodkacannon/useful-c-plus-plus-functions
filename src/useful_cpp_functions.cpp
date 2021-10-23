@@ -9,14 +9,10 @@ namespace useful_cpp_functions
   {
     return d - (int) d; 
   }
-
-  void im_gonna_getch_ya()
-  {
-      getch();
-  }
-  void pause_console(const std::string& pause_message)
+  
+  void pause_console(const std::string& pause_message="Press any key to continue . . . ")
   {
       std::cout << pause_message;
-      im_gonna_getch_ya();
+      getch();
   }
 };
