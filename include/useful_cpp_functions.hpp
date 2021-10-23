@@ -1,4 +1,6 @@
+#include <conio.h>
 #include <string>
+#include <iostream>
 
 namespace useful_cpp_functions
 {
