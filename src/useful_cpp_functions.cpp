@@ -15,4 +15,9 @@ namespace useful_cpp_functions
       std::cout << pause_message;
       getch();
   }
+  
+  void pause_console_unsafe()
+  {
+    system("pause");
+  }
 };
