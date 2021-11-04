@@ -18,6 +18,6 @@ namespace useful_cpp_functions
   
   void pause_console_unsafe()
   {
-    system("pause");
+      system("pause");
   }
 };
