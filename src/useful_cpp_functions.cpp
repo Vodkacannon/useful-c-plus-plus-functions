@@ -10,7 +10,7 @@ namespace useful_cpp_functions
     return d - (int) d; 
   }
   
-  void pause_console(const std::string& pause_message="Press any key to continue . . . ")
+  void pause_console(const std::string& pause_message = "Press any key to continue . . . ")
   {
       std::cout << pause_message;
       getch();
